@@ -4,5 +4,5 @@
 
 
 
-tape-- connect esp8622 with wifi you need to enter the wifi and its password / then get ip of mcu with the zoom button of arduino / finally open up on browser with IP
+tape-- connect esp8622 with wifi you need to enter the wifi and its password / then get ip of the mcu with the zoom button of arduino / finally open up on browser with IP
 
