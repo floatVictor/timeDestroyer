@@ -1,6 +1,6 @@
 # timeDestroyer
 
-1------ make three led flash D0 D1 D2 ON MCU esp8622                                                                                                           
+1------ make three led flash D0 D1 D2 ON MCU esp8266                                                                                                           
 
 
 
