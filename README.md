@@ -1,8 +1,7 @@
 # timeDestroyer
 
-1------ make three led flash D0 D1 D2 ON MCU esp8266                                                                                                           
-
-
-
-tape-- connect esp8622 with wifi you need to enter the wifi and its password / then get ip of the mcu with the zoom button of arduino / finally open up on browser with IP
+v2 checkPoint : 
+ - receive RGB & send (analog sensor value) -> fonctionnal
+ - using UDP packet : 1-n nodeMcu <--------> touchdesigner
+                
 
